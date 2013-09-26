@@ -1,5 +1,5 @@
 Navigation Sample Application
-=========================
+=============================
 Computer science project for the course location-based systems at the Institute of Technology Nuremberg.
 
 About
